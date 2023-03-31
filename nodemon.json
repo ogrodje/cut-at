@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": ".ts,.js",
+  "ignore": [],
+  "exec": "npx ts-node ./src/index.ts --outputDir=./output --videoFile=/Users/otobrglez/Dropbox/Ogrodje/recordings-video-temp/S02E03.mp4 --timestampsFile=./s02e03.stamps"
+}
