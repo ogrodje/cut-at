@@ -52,5 +52,6 @@ Options:
 ## Author
 
 [Oto Brglez](https://github.com/otobrglez)
+
 [cut-at]: https://github.com/ogrodje/otobrglez
 [ogrodje]: https://youtube.com/@ogrodje
