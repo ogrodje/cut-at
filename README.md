@@ -1,6 +1,6 @@
 # cut-at
 
-[cut-at] is a simple CLI tool for cutting log videos to short clips.
+[cut-at] is a simple CLI tool for cutting log videos to short clips with FFMPEG.
 
 We use this tool at [Ogrodje Podcast][ogrodje] for creating of shorts and reels.
 
